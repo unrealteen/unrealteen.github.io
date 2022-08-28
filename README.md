@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](https://pbs.twimg.com/media/FZVBUyBWQAEuucv?format=jpg&name=small)
 ```
-[Link](url) and ![Image](https://pbs.twimg.com/media/FZVBUyBWQAEuucv?format=jpg&name=small)
+[Link](url) and ![The Champion](https://pbs.twimg.com/media/FZVBUyBWQAEuucv?format=jpg&name=small)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
