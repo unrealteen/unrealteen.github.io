@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAABkCAMAAAAGyBjZAAAAclBMVEUAAAD////39/fx8fHf39/c3NwcHBwNDQ04ODhwcHD6+vrm5ubu7u6tra3i4uIkJCQXFxdUVFQRERFjY2PQ0NCenp6Pj49KSkp4eHiysrK6urqHh4c3NzeXl5dFRUXKysqLi4tYWFh/f38sLCxnZ2dxcXGa9AwUAAACCUlEQVRYhe2YyXrCMAyELci+kAChpIEQlvb9X7G0bJIsFQOHHuq5jv7EHssKHwZcNDZIATJGxvOe/0s+0hS48apCz3ve8573vOc97/l/xr/6++lVPkdlxRN88SI/QmX543yMqiDQNqbzEeYbbWM6n2C+0zam8zvMl9jJkDHWcLPA/BsySDC5yk9wWYqMSg0W64CrYIkcEkyj8VvC18iZYmNQ8AiHDBNstdh5V/iOvB7HR4PtZfyN4LDGXoOd1gUPiUl2thPo2TvFYY9dEj8cbHyZM3wUYXtPLIuOSuBakYIBW/z44tXIwoOYPJ94NP64LSwaMhI+PX0Sn0gDfNAV4qkO2W1p9UqkafaseW9joertfUs4bZ7LtUzszM/rmzOcvj47X6tOwScJPx7aGpeptJHxcsZw09OCjbyrk/Ipp82OVtxmx9Sis956uTmwjNFQGhjeCfeC/KEBtHfppWqWNm2ikOJAwkU3PrQ3flTFcdb6l8U1Im0S3p2TmBX8fFUGaeVHfVjtueEl6XGY8n65LM7uT2HupZVMm01g4aVSKmi2sGjo4vvcWXM+DR/CE95YD+GVeK+1TxZX3WcS7hjdbCtOpOzTjV6NJRrC9X32SO9lGkq35ObyMB3zaagq4l/Qby3q++BVS35dB6edI6Xk97Pz0m+KrykWrXu/Y51Osdg/R/88oR3S3+kvj/Yc2NTnhkEAAAAASUVORK5CYII=)
+[Link](url) and ![Image](https://pbs.twimg.com/media/FZVBUyBWQAEuucv?format=jpg&name=small)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
